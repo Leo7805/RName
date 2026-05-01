@@ -361,7 +361,7 @@ pip install xlwings opencc
 
 **Leo**
 
-- Email: geneleo@qq.com
+- Email: geneleoc@gmail.com
 - 创建时间: 2021.12.28
 
 ---
