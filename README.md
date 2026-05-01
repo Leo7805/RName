@@ -34,7 +34,7 @@
 
 RName is a student assignment batch renaming tool designed for teachers. It automatically standardizes assignment filenames based on an Excel roster and tracks submission status.
 
-**Author**: Leo (geneleo@qq.com)  
+**Author**: Leo (geneleoc@gmail.com)  
 **Version**: v1.3.12  
 **Updated**: 2023.03.24  
 **Created**: 2021.12.28
